@@ -1,0 +1,1 @@
+flag{assassinator_5_6_7}

@@ -1,0 +1,9 @@
+attachment  （这里存放所有需要给选手带的文件）
+deployment （这里存放所有部署需要的文件）
+
+  docker  （linux环境请同时打包成docker）
+  readme文件(部署步骤写在文本中)
+
+
+  source文件  （源码、编译命令/环境）
+writeup	（这里用来存放writeup）
